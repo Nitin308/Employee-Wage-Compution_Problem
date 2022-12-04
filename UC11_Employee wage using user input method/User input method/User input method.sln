@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee wage using user input method", "Employee wage using user input method.csproj", "{4E391788-7BFB-4A25-B313-A7FB7857BB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E391788-7BFB-4A25-B313-A7FB7857BB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E391788-7BFB-4A25-B313-A7FB7857BB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E391788-7BFB-4A25-B313-A7FB7857BB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E391788-7BFB-4A25-B313-A7FB7857BB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739F8896-A094-4504-B4DC-F3E1421B0E6D}
+	EndGlobalSection
+EndGlobal
